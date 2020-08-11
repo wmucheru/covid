@@ -2,7 +2,16 @@
     "description":"",
     "sources": [
         "https://www.worldometers.info/coronavirus/country/kenya/",
-        "https://www.facebook.com/MinstryofHealthKE"
+        "https://www.facebook.com/MinstryofHealthKE",
+        "https://twitter.com/MOH_Kenya"
+    ],
+    "funding": [
+        {
+            "day": "2020-06-24",
+            "item":"40,000 cartons of Ready to Use Therapeutic Food (RUTF)",
+            "value":"USD. 2.35 Million",
+            "link":"https://twitter.com/MOH_Kenya"
+        }
     ],
     "data": [
         {
@@ -350,24 +359,24 @@
         },
         {
             "day":"2020-06-23",
-            "tested":0,
-            "confirmed":0,
-            "recovered":0,
-            "deaths":0
+            "tested":4171,
+            "confirmed":155,
+            "recovered":102,
+            "deaths":3
         },
         {
             "day":"2020-06-22",
-            "tested":0,
-            "confirmed":0,
-            "recovered":0,
-            "deaths":0
+            "tested":2354,
+            "confirmed":59,
+            "recovered":73,
+            "deaths":2
         },
         {
             "day":"2020-06-21",
-            "tested":0,
-            "confirmed":0,
-            "recovered":0,
-            "deaths":0
+            "tested":3651,
+            "confirmed":260,
+            "recovered":21,
+            "deaths":2
         },
         {
             "day":"2020-06-20",
